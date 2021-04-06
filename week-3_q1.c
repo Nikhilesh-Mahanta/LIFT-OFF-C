@@ -5,6 +5,6 @@ int main()
     printf("Please Enter any integer : ");
     scanf("%f", &num);
     square = num * num;
-    printf("square of given number %.2f is  =  %.2f", num, square);
+    printf("square of given number %.2f =  %.2f", num, square);
     return 0;
 }
